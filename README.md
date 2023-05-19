@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Sebi.<br>
-        Motivated in Full Stack SWE with a strong foundation in web development, eager to contribute to innovative projects and  continuously expand skills.<br>
+        Motivated in Full-Stack SWE with a strong foundation in web development, eager to contribute to innovative projects and  continuously expand skills.<br>
     </i><br>
     <a href="#">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
