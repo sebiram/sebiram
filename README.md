@@ -6,7 +6,7 @@
         I'm Sebastian.<br>
         Motivated in Full-Stack SWE with a strong foundation in front-end development, eager to contribute to innovative projects and  continuously expand skills.<br>
     </i><br>
-    <a href="#">
+    <a href="https://www.linkedin.com/in/sebiram/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="#">
