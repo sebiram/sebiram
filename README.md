@@ -1,9 +1,9 @@
-<h1 align="center">Hi, guys! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hi there! I'm Sebi. <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Sebi.<br>
+        I'm Sebastian.<br>
         Motivated in Full-Stack SWE with a strong foundation in web development, eager to contribute to innovative projects and  continuously expand skills.<br>
     </i><br>
     <a href="#">
