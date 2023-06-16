@@ -29,10 +29,6 @@ I'm Sebastian. Motivated in Full-Stack SWE with a strong foundation in front-end
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://large-type.com/#sebi%230001">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
 ## Stats
 
 <details>
