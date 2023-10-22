@@ -22,13 +22,9 @@ Motivated in Full-Stack SWE with a strong foundation in front-end development, e
 
 ## Getting in touch
 
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=sebastianramord@gmail.com&su=Your+Concern&body=Your+message+to+me&tf=cm">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/sebiram/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=sebastianramord@gmail.com&su=Your+Concern&body=Your+message+to+me&tf=cm)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebiram/)
+[![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordid.netlify.app/?id=989626567208616017)
 
 ## Stats
 
@@ -54,14 +50,3 @@ Motivated in Full-Stack SWE with a strong foundation in front-end development, e
     <img src="https://komarev.com/ghpvc/?username=sebiram&color=blue&style=flat)" />
   </a>
 </p>
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
