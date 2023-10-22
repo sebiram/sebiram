@@ -5,7 +5,7 @@
 </p>
 
 ## About me
-I'm Sebastian. Motivated in Full-Stack SWE with a strong foundation in front-end development, eager to contribute to innovative projects and continuously expand skills. Feel welcome to connect with me or get in touch regarding inquiries, input, criticism, or quite literally anything else.
+Motivated in Full-Stack SWE with a strong foundation in front-end development, eager to contribute to innovative projects and continuously expand skills. Feel welcome to connect with me or get in touch regarding inquiries, input, criticism, or quite literally anything else.
 
 ## Technologies
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/sebiram)
