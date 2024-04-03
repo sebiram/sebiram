@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sebi.</h1>
 
 <p align="center">
-    <b>Welcome to my page!</b>
+    <b>Welcome to my page</b>
 </p>
 
 ## About me
