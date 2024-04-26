@@ -1,9 +1,5 @@
 <h1 align="center">Hey, I'm Sebi</h1>
 
-<p align="center">
-    <b>Welcome to my page!</b>
-</p>
-
 ## About me
 Motivated in Full-Stack SWE, eager to contribute to innovative projects and continuously expand skills. Feel welcome to connect with me or get in touch regarding inquiries, input, criticism, or quite literally anything else.
 
