@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Sebi</h1>
-Motivated in Full-Stack SWE, eager to contribute to innovative projects and continuously expand skills. Feel welcome to connect with me or get in touch regarding inquiries, input, criticism, or quite literally anything else.
+Eager to contribute to innovative projects and continuously expand skills. Feel welcome to connect with me or get in touch regarding inquiries, input, criticism, or quite literally anything else.
 
 ## Technologies
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/sebilune)
