@@ -10,28 +10,22 @@
 
 <h1></h1>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Technologies</h3>
 <p align="center">
   <a href="https://github.com/sebilune">
     <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,md,cpp&perline=14" />
   </a>
 </p>
-
-<h3 align="center">Technologies</h3>
 <p align="center">
   <a href="https://github.com/sebilune">
     <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,sass,bootstrap&perline=14" />
   </a>
 </p>
-
-<h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://github.com/sebilune">
-    <img src="https://skillicons.dev/icons?i=git,npm,bash,sass,vim,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,npm,bash,vim,vscode&perline=14" />
   </a>
 </p>
-
-<h3 align="center">OS</h3>
 <p align="center">
   <a href="https://github.com/sebilune">
     <img src="https://skillicons.dev/icons?i=linux,windows,apple&perline=14" />
@@ -47,6 +41,13 @@
     <img src="https://skillicons.dev/icons?i=discord&perline=14" />
   </a>
 </p>
+
+<h1></h1>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <h1></h1>
 
