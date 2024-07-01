@@ -18,13 +18,8 @@
 </p>
 
 <h3 align="center">Getting in touch</h3>
-<p align="center">
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=me@sebilune.com&su=Your+Concern&body=Your+message+to+me&tf=cm">
-    <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
-  </a>
-  <a href="https://discord.com/users/641805554989137953">
-    <img src="https://skillicons.dev/icons?i=discord&perline=14" />
-  </a>
+<p align="center" style="display: flex; justify-content: center; gap: 0.5rem;">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=me@sebilune.com&su=Your+Concern&body=Your+message+to+me&tf=cm"><img src="https://skillicons.dev/icons?i=gmail"/></a><a href="https://discord.com/users/641805554989137953"><img src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
 
 <h1></h1>
