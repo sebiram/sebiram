@@ -10,25 +10,10 @@
 
 <h1></h1>
 
-<h3 align="center">Technologies</h3>
+<h3 align="center">Skills<h3>
 <p align="center">
   <a href="https://github.com/sebilune">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,md,cpp&perline=14" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/sebilune">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,sass,bootstrap&perline=14" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/sebilune">
-    <img src="https://skillicons.dev/icons?i=git,npm,bash,vim,vscode&perline=14" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/sebilune">
-    <img src="https://skillicons.dev/icons?i=linux,windows,apple&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,sass,bootstrap,nodejs,npm,git,bash,cpp,vscode,vim,linux,apple,windows&perline=8" />
   </a>
 </p>
 
